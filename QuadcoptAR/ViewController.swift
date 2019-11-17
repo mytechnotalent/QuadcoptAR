@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  QuadcoptAR
 //
-//  Created by Kevin M. Thomas on 12/30/18.
-//  Copyright © 2018 Kevin M. Thomas. All rights reserved.
+//  Created by Kevin Thomas on 12/30/18.
+//  Copyright © 2018 Kevin Thomas. All rights reserved.
 //
 
 import UIKit
