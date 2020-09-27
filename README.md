@@ -1,3 +1,5 @@
+[![Watch The Video](https://img.youtube.com/vi/oA4XCJ1cK44/maxresdefault.jpg)](https://youtu.be/oA4XCJ1cK44)
+
 # QuadcoptAR
 A fun augmented reality game where you get to shoot down two different kinds of bicopters that exist within your space!
 
